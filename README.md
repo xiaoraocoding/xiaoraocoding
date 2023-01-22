@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning k8s
 - 💁 I want to be a great developer.
 - 📫 How to reach me 
-     3490755245@
+     3490755245@qq.com
 
 <!---
 xiaoraocoding/xiaoraocoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
